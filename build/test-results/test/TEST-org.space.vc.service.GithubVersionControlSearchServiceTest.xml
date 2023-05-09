@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.space.vc.service.GithubVersionControlSearchServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-09T09:04:48" hostname="Vital" time="0.016">
-  <properties/>
-  <testcase name="givenCorrectInputShouldReturnValidFilter()" classname="org.space.vc.service.GithubVersionControlSearchServiceTest" time="0.016"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
