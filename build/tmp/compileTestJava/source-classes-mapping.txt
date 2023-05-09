@@ -1,0 +1,8 @@
+org/space/vc/integration/github/GithubSearchServiceTest.java
+ org.space.vc.integration.github.GithubSearchServiceTest
+org/space/vc/web/SearchControllerTest.java
+ org.space.vc.web.SearchControllerTest
+org/space/vc/integration/github/SimpleSearchFilterTest.java
+ org.space.vc.integration.github.SimpleSearchFilterTest
+org/space/vc/service/GithubVersionControlSearchServiceTest.java
+ org.space.vc.service.GithubVersionControlSearchServiceTest

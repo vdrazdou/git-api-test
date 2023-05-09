@@ -1,0 +1,78 @@
+org/space/vc/config/ApplicationConfig.java
+ org.space.vc.config.ApplicationConfig
+org/space/vc/service/GithubVersionControlSearchService.java
+ org.space.vc.service.GithubVersionControlSearchService
+org/space/vc/converter/UserDtoConverter.java
+ org.space.vc.converter.UserDtoConverter
+org/space/vc/service/VersionControlSearchService.java
+ org.space.vc.service.VersionControlSearchService
+org/space/vc/integration/github/domain/repository/Repository.java
+ org.space.vc.integration.github.domain.repository.Repository
+org/space/vc/config/SwaggerConfig.java
+ org.space.vc.config.SwaggerConfig
+org/space/vc/integration/github/domain/repository/RepositoryItem.java
+ org.space.vc.integration.github.domain.repository.RepositoryItem
+org/space/vc/integration/github/domain/EntityInfo.java
+ org.space.vc.integration.github.domain.EntityInfo
+org/space/vc/dto/RepositoryDto.java
+ org.space.vc.dto.RepositoryDto
+ org.space.vc.dto.RepositoryDto$RepositoryDtoBuilder
+org/space/vc/integration/github/GitHubSearchApiClient.java
+ org.space.vc.integration.github.GitHubSearchApiClient
+org/space/vc/converter/RepositoryDtoConverter.java
+ org.space.vc.converter.RepositoryDtoConverter
+org/space/vc/integration/github/domain/user/UserUrlPointer.java
+ org.space.vc.integration.github.domain.user.UserUrlPointer
+org/space/vc/dto/UserDto.java
+ org.space.vc.dto.UserDto
+ org.space.vc.dto.UserDto$UserDtoBuilder
+org/space/vc/integration/github/SimpleSearchFilter.java
+ org.space.vc.integration.github.SimpleSearchFilter
+ org.space.vc.integration.github.SimpleSearchFilter$Builder
+org/space/vc/Application.java
+ org.space.vc.Application
+org/space/vc/integration/github/FilterRules.java
+ org.space.vc.integration.github.FilterRules
+ org.space.vc.integration.github.FilterRules$Operation
+ org.space.vc.integration.github.FilterRules$Order
+ org.space.vc.integration.github.FilterRules$Sort
+org/space/vc/integration/github/domain/repository/RepositoryStatistic.java
+ org.space.vc.integration.github.domain.repository.RepositoryStatistic
+org/space/vc/dto/RepositoryStatisticDto.java
+ org.space.vc.dto.RepositoryStatisticDto
+ org.space.vc.dto.RepositoryStatisticDto$RepositoryStatisticDtoBuilder
+org/space/vc/integration/github/GithubSearchService.java
+ org.space.vc.integration.github.GithubSearchService
+org/space/vc/dto/UserUrlPointerDto.java
+ org.space.vc.dto.UserUrlPointerDto
+ org.space.vc.dto.UserUrlPointerDto$UserUrlPointerDtoBuilder
+org/space/vc/dto/RepositoryStateDto.java
+ org.space.vc.dto.RepositoryStateDto
+ org.space.vc.dto.RepositoryStateDto$RepositoryStateDtoBuilder
+org/space/vc/integration/github/domain/user/User.java
+ org.space.vc.integration.github.domain.user.User
+org/space/vc/dto/RepositoryUrlPointerDto.java
+ org.space.vc.dto.RepositoryUrlPointerDto
+ org.space.vc.dto.RepositoryUrlPointerDto$RepositoryUrlPointerDtoBuilder
+org/space/vc/dto/ErrorMessageDto.java
+ org.space.vc.dto.ErrorMessageDto
+org/space/vc/dto/EntityInfoDto.java
+ org.space.vc.dto.EntityInfoDto
+ org.space.vc.dto.EntityInfoDto$EntityInfoDtoBuilder
+org/space/vc/exception/IllegalFilterStateException.java
+ org.space.vc.exception.IllegalFilterStateException
+org/space/vc/integration/github/Qualifier.java
+ org.space.vc.integration.github.Qualifier
+org/space/vc/integration/github/domain/repository/RepositoryState.java
+ org.space.vc.integration.github.domain.repository.RepositoryState
+org/space/vc/integration/github/domain/repository/Permission.java
+ org.space.vc.integration.github.domain.repository.Permission
+org/space/vc/web/handler/GlobalErrorHandler.java
+ org.space.vc.web.handler.GlobalErrorHandler
+org/space/vc/integration/github/domain/repository/RepositoryUrlPointer.java
+ org.space.vc.integration.github.domain.repository.RepositoryUrlPointer
+org/space/vc/dto/RepositoryItemDto.java
+ org.space.vc.dto.RepositoryItemDto
+ org.space.vc.dto.RepositoryItemDto$RepositoryItemDtoBuilder
+org/space/vc/web/controller/SearchController.java
+ org.space.vc.web.controller.SearchController
